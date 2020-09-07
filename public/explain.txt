@@ -1,0 +1,3 @@
+in the public directory all the static webpages frontend design you want to loaded in your web application
+you can create a html page here whose pathdirectory is loaded in your main src/app by using express.static(path) then you can use it 
+by adding /name.html in your url

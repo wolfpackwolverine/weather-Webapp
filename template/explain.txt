@@ -1,0 +1,3 @@
+templates for dynamic frontend that is content which can changed accordingly on runtime we use handlebars for that
+in the handlebar you can use partials(the resuable code which you can use in different pages whiout copying the same code everywhere)
+partial contains the code which you wanna reuse you have to load the partials in your page {{>partialname}}
